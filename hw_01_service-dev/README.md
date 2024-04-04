@@ -1,6 +1,6 @@
 # hw1_mod service
 
-This repository allows you to deploy a service with [model](https://gitlab.deepschool.ru/cvr-dec23/e.romanov/hw_01_modeling/-/tree/dev?ref_type=heads) results for multiclass forecasting for the "Planet" dataset
+This repository allows you to deploy a service with [model](https://github.com/EugeneRomanov/planet_classification/tree/main/hw_01_modeling-dev) results for multiclass forecasting for the "Planet" dataset
 
 ## Preparing the environment
 Makefile allows you to simply get started with this project.

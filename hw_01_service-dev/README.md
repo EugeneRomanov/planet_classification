@@ -37,4 +37,4 @@ If you want to change the linter parameters, then configure [setup.cfg](setup.cf
 
 
 ## Service
-The launched service is available via this [link](http://localhost:2444/docs)
+The launched service is available via this [link]([http://localhost:2444/docs](http://91.206.15.25:1001/docs))

@@ -1,0 +1,24 @@
+services:
+  planet_classifier:
+    model_path: 'weights/model.pt'
+    device: 'cpu'
+    pic_size: [224, 224]
+    threshold: 0.7
+    classes:
+      - 'road'
+      - 'haze'
+      - 'water'
+      - 'bare_ground'
+      - 'selective_logging'
+      - 'blooming'
+      - 'cultivation'
+      - 'cloudy'
+      - 'primary'
+      - 'clear'
+      - 'slash_burn'
+      - 'blow_down'
+      - 'agriculture'
+      - 'artisinal_mine'
+      - 'conventional_mine'
+      - 'habitation'
+      - 'partly_cloudy'
